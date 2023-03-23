@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolio.DEG.MdsApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.91 s - in com.portfolio.DEG.MdsApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.762 s - in com.portfolio.DEG.MdsApplicationTests
