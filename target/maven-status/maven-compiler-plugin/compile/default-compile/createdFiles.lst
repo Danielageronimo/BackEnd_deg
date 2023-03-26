@@ -37,6 +37,7 @@ com\portfolio\DEG\Security\Dto\JwtDto.class
 com\portfolio\DEG\Controller\PersonaController.class
 com\portfolio\DEG\Repository\RProyectos.class
 com\portfolio\DEG\Security\MainSecurity.class
+com\portfolio\DEG\WebConfig.class
 com\portfolio\DEG\Security\Entity\Rol.class
 com\portfolio\DEG\Dto1\dtoExperiencia.class
 com\portfolio\DEG\Service\SSkills.class
